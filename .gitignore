@@ -1,0 +1,4 @@
+/.idea
+/node_modules
+/Bot/config/db_config.json
+/Bot/config/puppeteer.json

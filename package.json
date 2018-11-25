@@ -1,0 +1,33 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "A bot that helps automate regular Instagram activity i.e liking posts, following users and unfollow users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/03balogun/instagram-bot.git"
+  },
+  "dependencies": {
+    "firebase-admin": "^6.1.0",
+    "puppeteer": "^1.9.0",
+    "shuffle-array": "^1.0.1"
+  },
+  "keywords": [
+    "Instagram",
+    "Bot",
+    "Puppeteer",
+    "NodeJs",
+    "Firebase",
+    "Automation"
+  ],
+  "author": "Balogun Wahab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/03balogun/instagram-bot/issues"
+  },
+  "homepage": "https://github.com/03balogun/instagram-bot#readme"
+}
